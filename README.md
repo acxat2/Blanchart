@@ -4,4 +4,4 @@
 
 Mакет в Figma: https://www.figma.com/file/FXCdg8Pu72IM1Zs2NV6iwJ/Blanchard?type=design&mode=design&t=M1dX31C2uPSgpEKm-0
 
-Ссылка на лендинг: http://blanchart.cu19913.tmweb.ru
+Демо: http://blanchart.cu19913.tmweb.ru
